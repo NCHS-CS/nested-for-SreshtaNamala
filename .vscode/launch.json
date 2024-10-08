@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "nested-for-SreshtaNamala_8ee1412c"
+        },
+        {
+            "type": "java",
+            "name": "Nested",
+            "request": "launch",
+            "mainClass": "Nested",
+            "projectName": "nested-for-SreshtaNamala_8ee1412c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
